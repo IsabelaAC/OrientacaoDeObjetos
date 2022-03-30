@@ -1,0 +1,19 @@
+{
+  "name": "objetos",
+  "version": "1.0.0",
+  "description": "Estudos básicos de Javascript em orientação de objetos",
+  "main": "acessar-lista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelaAC/Javascript-Backend.git"
+  },
+  "author": "Isabela Assis Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelaAC/Javascript-Backend/issues"
+  },
+  "homepage": "https://github.com/IsabelaAC/Javascript-Backend#readme"
+}
